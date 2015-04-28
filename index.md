@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Página de proyectos del alumno Alan Brito
+title: Página de proyectos del alumna Selena Brea
 ---
 
 
-# Página de proyectos del alumno Alan Brito
+# Página de proyectos del alumna Selena Brea
 Bienvenidos a mi página de proyectos, este es mi espacio personal donde publicaré mis proyectos de informática.
 
 ## ¿Quién soy? 
-Soy un Alumno apasionado por el Aprendizaje, compartir ideas, me gustan los debates y sacar 20 en todas las materias, nunca me copio porque se que tengo la capacidad de hacer lo mejor.
+Soy una Alumna apasionada por el Aprendizaje, compartir ideas, me gustan los debates y sacar 20 en todas las materias, nunca me copio porque se que tengo la capacidad de hacer lo mejor.
 
 ## ¿Qué me gusta?
 
-* Informática
+* Informática; Este no me gusta
 * Chocolate
 * La Playa
 * La buena música
